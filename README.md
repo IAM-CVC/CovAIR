@@ -31,7 +31,7 @@ The following scripts are included (see the script itself for detailed help abou
 - `Export2Excel4R.m`: Exports results to excel.
 - `SampleInfo2PRLData.m`: Convert data to PLR structure.
 
-*(modify all paths to your local ones)
+*modify all paths to your local ones
 
 ## Experiments Scripts
 
