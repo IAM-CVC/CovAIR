@@ -23,13 +23,14 @@ Download the datasets:
 
 The following scripts are included (see the script itself for detailed help about inputs and outputs):
 
-```
+```bash
 - `ChestNIHCC_Dataset_Extraction.m`: Extraction of ChestXray-NIHCC dataset from excel information (Data_Entry_2017.mat).
 - `covidchestxray_Dataset_Extraction.m`: Extraction of covid-chest-xray dataset dataset from excel information (metadata_18_03_2020.xlsx).
 - `ClassifierAssessment.m`:  Computes Precision and Recall scores for the samples in Data and classifier defined by W.
 - `DefinekFold.m`: Computes NFold partition of Data class-wise. That is, for each class a kfold partition is computed and the final partition is given by ensembling all classes folds.
 - `Export2Excel4R.m`: Exports results to excel.
 - `SampleInfo2PRLData.m`: Convert data to PLR structure.
+```
 
 *modify all paths to your local ones
 
