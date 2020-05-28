@@ -6,8 +6,6 @@ The main objective of this project is to diagnose and follow up patients with CO
 from the analysis of X-ray images. In particular, this project has two main objectives: 
 (1) Early detection of CoVID-19; and (2) Monitoring of CoVID-19.
 
-## Setup
-
 ## Prerequisites
 - Windows, Linux or OSX.
 - Matlab 2016a or more.
@@ -15,9 +13,8 @@ from the analysis of X-ray images. In particular, this project has two main obje
 ## Datasets
 Download the datasets: 
 
-- `covid-chest-xray`: 152 images of covid19 [covid_chest_xray](https://www.kaggle.com/bachrr/covid-chest-xray). 
-- `NIH Chest X-ray Dataset`: 112120 images of 14 Common Thorax Disease Categories [ChestXray_NIHCC](http://academictorrents.com/details/557481faacd824c83fbf57dcf7b6da9383b3235a). 
-
+- `covid-chest-xray`: 152 images of covid19 [covid-chest-xray](https://www.kaggle.com/bachrr/covid-chest-xray). 
+- `NIH Chest X-ray Dataset`: 112120 images of 14 Common Thorax Disease Categories [ChestXray-NIHCC](http://academictorrents.com/details/557481faacd824c83fbf57dcf7b6da9383b3235a). 
 
 ## Scripts 
 
@@ -32,7 +29,7 @@ The following scripts are included (see the script itself for detailed help abou
 
 *modify all paths to your local ones
 
-## Experiments Scripts
+## Experiment Scripts
 
 These experiments are disigned to explore capability of classical feature spaces for covid discrimination/early detection in XRAY IA methods: SVM classifier over DCV space on HOG trained to discriminate 4 groups (covid19, pneumonia, infiltrate and no finding). 
 (see the script itself for detailed help about inputs and outputs).
