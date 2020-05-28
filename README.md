@@ -49,3 +49,13 @@ If you use this code for your research, please cite our paper:
 
 
 ## Acknowledgments
+
+The research leading to these results has received funding from the European Union Horizon 2020 research and
+innovation programme under the Marie SkAodowska-Curie grant agreement No 712949 (TECNIOspring PLUS) and
+from the Agency for Business Competitiveness of the Government of Catalonia.
+
+This work was supported by Spanish projects RTI2018-095209-B-C21, FIS-G64384969, Generalitat de Catalunya,
+2017-SGR-1624 and CERCA-Programme. Debora Gil is supported by Serra Hunter Fellow. The Titan X Pascal used
+for this research was donated by the NVIDIA Corporation.
+
+"Dedicat a la mama (DGil)"
