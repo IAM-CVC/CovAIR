@@ -18,6 +18,7 @@ Download the datasets:
 ```bash
 - `covid-chest-xray`: 152 images of covid19 [covid_chest_xray](https://www.kaggle.com/bachrr/covid-chest-xray). 
 - `NIH Chest X-ray Dataset`: 112120 images of 14 Common Thorax Disease Categories [ChestXray_NIHCC](http://academictorrents.com/details/557481faacd824c83fbf57dcf7b6da9383b3235a). 
+```
 
 ## Scripts 
 
