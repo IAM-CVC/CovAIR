@@ -29,7 +29,7 @@ The following scripts are included (see the script itself for detailed help abou
 
 *modify all paths to your local ones
 
-## Experiment Scripts
+## Experiment
 
 These experiments are disigned to explore capability of classical feature spaces for covid discrimination/early detection in XRAY IA methods: SVM classifier over DCV space on HOG trained to discriminate 4 groups (covid19, pneumonia, infiltrate and no finding). 
 (see the script itself for detailed help about inputs and outputs).
