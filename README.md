@@ -1,6 +1,6 @@
 
 # Covχ
-[Project](http://iam.cvc.uab.es/portfolio/covair/) | [Arxiv](https://arxiv.org/pdf/2005.13928.pdf)
+[Project](http://iam.cvc.uab.es/portfolio/covair/) | [Arxiv](https://arxiv.org/abs/2005.13928)
 
 The main objective of this project is to diagnose and follow up patients with COVID-19 early 
 from the analysis of X-ray images. In particular, this project has two main objectives: 
