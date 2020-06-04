@@ -25,7 +25,6 @@ The following scripts are included (see the script itself for detailed help abou
 - `ClassifierAssessment.m`:  Computes Precision and Recall scores for the samples in Data and classifier defined by W.
 - `DefinekFold.m`: Computes NFold partition of Data class-wise. That is, for each class a kfold partition is computed and the final partition is given by ensembling all classes folds.
 - `Export2Excel4R.m`: Exports results to excel.
-- `SampleInfo2PRLData.m`: Convert data to PLR structure.
 
 *Important: modify all paths to your local ones
 
@@ -38,9 +37,9 @@ These experiments are disigned to explore capability of classical feature spaces
 - `XRayCovidDiagnosis_EarlyDetection.m`
 - `XRayCovidDiagnosis_ParameterTunning.m`
 - `XRayExploring_DimReductionAssessment.m`
+- `SampleInfo2PRLData.m`: Convert data to PLR structure.
 
-*Important: XRayTest.mat is too large for GitHub. You can download from [here](https://uab.sharepoint.com/:u:/s/COVID-192/EXq27EngzYhAgp9_8zepEqcBrI1ftLDKsh1in-PXPdzmzg?e=4R7lAp)
-
+*Important: for NIH Chest X-ray Dataset, XRayTest.mat is too large. You can generate it by using SampleInfo2PRLData.m
 
 
 ## Citation
