@@ -27,7 +27,7 @@ The following scripts are included (see the script itself for detailed help abou
 - `Export2Excel4R.m`: Exports results to excel.
 - `SampleInfo2PRLData.m`: Convert data to PLR structure.
 
-*modify all paths to your local ones
+*Important: modify all paths to your local ones
 
 ## Experiment
 
@@ -39,9 +39,8 @@ These experiments are disigned to explore capability of classical feature spaces
 - `XRayCovidDiagnosis_ParameterTunning.m`
 - `XRayExploring_DimReductionAssessment.m`
 
-```
-Important: XRayTest.mat is too large for GitHub. You can download from [here](https://uab.sharepoint.com/:u:/s/COVID-192/EXq27EngzYhAgp9_8zepEqcBrI1ftLDKsh1in-PXPdzmzg?e=4R7lAp)
-```
+*Important: XRayTest.mat is too large for GitHub. You can download from [here](https://uab.sharepoint.com/:u:/s/COVID-192/EXq27EngzYhAgp9_8zepEqcBrI1ftLDKsh1in-PXPdzmzg?e=4R7lAp)
+
 
 
 ## Citation
